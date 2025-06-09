@@ -5,7 +5,7 @@
   <br>
   Passionate about scalable systems, backend APIs, and frontend experience  
   <br>
-   From Barmer, Rajasthan | Actively exploring new job opportunities  
+   Actively exploring new job opportunities  
 </p>
 
 ## 💼 About Me
