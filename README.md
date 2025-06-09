@@ -30,6 +30,9 @@ Led development teams, managed full project lifecycles, and handled database des
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-3178C6?logo=javascript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white)
+
 
 ### Backend & Tools
 
@@ -39,6 +42,7 @@ Led development teams, managed full project lifecycles, and handled database des
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-EA1D25?logo=nodedotjs&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-0054A6?logo=grpc&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
 
@@ -47,9 +51,11 @@ Led development teams, managed full project lifecycles, and handled database des
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Gmail API](https://img.shields.io/badge/-Gmail%20API-D14836?logo=gmail&logoColor=white)
 
 
-### 🔧 Dev Tools & Workflow
+### Dev Tools & Workflow
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
